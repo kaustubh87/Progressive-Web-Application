@@ -1,0 +1,32 @@
+{
+    "name": "progresssive-web-application",
+    "version": "1.0.0",
+    "description": "A Progressive Web Application",
+    "main": "index.js",
+    "dependencies": {
+        "http-server": "^0.10.0"
+    },
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    },
+    "scripts": {
+        "start": "http-server -c-1 -p 3000"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kaustubh87/Progressive-Web-Application.git"
+    },
+    "keywords": [
+        "pwa",
+        "progressive",
+        "web",
+        "app",
+        "complete"
+    ],
+    "author": "Kaustubh Vinzanekar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kaustubh87/Progressive-Web-Application/issues"
+    },
+    "homepage": "https://github.com/kaustubh87/Progressive-Web-Application#readme"
+}
